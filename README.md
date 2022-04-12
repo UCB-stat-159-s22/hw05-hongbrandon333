@@ -1,11 +1,11 @@
 ## Fine-tuning reproduciblity of LIGO Black Hole signal tutorial
 
 ** Add Binder badge and link here**
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-s22/hw05-hongbrandon333/HEAD?labpath=index.pynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-s22/hw05-hongbrandon333/HEAD?labpath=index.ipynb)
 
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/UCB-stat-159-s22/hw05-hongbrandon333/HEAD?labpath=index.pynb
+ :target: https://mybinder.org/v2/gh/UCB-stat-159-s22/hw05-hongbrandon333/HEAD?labpath=index.ipynb
  
 https://mybinder.org/v2/gh/UCB-stat-159-s22/hw05-hongbrandon333/HEAD?labpath=index.ipynb
 
